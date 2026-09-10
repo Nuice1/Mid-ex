@@ -1,0 +1,14 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: rgb(201, 9, 9);
+    background-color: rgb(70, 212, 96) ;
+    text-align: center;
+
+}
+h2{
+    text-align: start;
+    width: 20px;
+    height: 12%;
+}
